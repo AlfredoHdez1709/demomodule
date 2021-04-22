@@ -1,0 +1,3 @@
+include ':HelloView'
+include ':app'
+rootProject.name = "DemoModule"
